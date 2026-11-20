@@ -75,3 +75,7 @@ My setup:
 ## Credits
 
 This project uses [faster-whisper](https://github.com/SYSTRAN/faster-whisper) and OpenAI's open [Whisper](https://github.com/openai/whisper) models, distributed through Hugging Face.
+
+## Disclaimer
+
+Claude, an AI assistant made by Anthropic, was used to build this repository.
